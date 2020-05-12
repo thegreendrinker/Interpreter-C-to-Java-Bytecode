@@ -16,7 +16,8 @@ java "name of class file" "name of test C file"
 
 
 In order to create executable of Lexer.java:
-Compile Token.java, TokenType.java, Lexer.java
+Compile 
+Token.java, TokenType.java, Lexer.java
 
 Parser.java:
 All Lexer related files, AbstractSyntax.java, Parser.java
